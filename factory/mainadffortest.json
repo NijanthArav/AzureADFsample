@@ -1,0 +1,9 @@
+{
+	"name": "mainadffortest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ccb2c3bf-5206-4802-ae45-ddc95db88334",
+		"tenantId": "d7720e47-a110-4d15-9059-e88bd96646f9"
+	}
+}

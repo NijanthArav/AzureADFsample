@@ -1,0 +1,9 @@
+{
+	"name": "secondadffornijanth",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5c6c3f33-85bf-4695-99a8-8b0a0e12047f",
+		"tenantId": "d7720e47-a110-4d15-9059-e88bd96646f9"
+	}
+}
